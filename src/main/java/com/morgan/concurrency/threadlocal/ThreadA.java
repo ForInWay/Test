@@ -1,4 +1,4 @@
-package com.morgan.threadlocal;
+package com.morgan.concurrency.threadlocal;
 
 /**
  * @Description: 线程A
