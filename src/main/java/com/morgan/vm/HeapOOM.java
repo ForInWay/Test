@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * @Description Java堆溢出
+ * 启动参数设置：-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
  * @Author Morgan
  * @Date 2020/12/31 14:37
  **/
