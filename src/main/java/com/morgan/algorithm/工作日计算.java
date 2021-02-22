@@ -8,7 +8,7 @@ import java.time.LocalDate;
  * @Author Morgan
  * @Date 2020/12/17 12:21
  **/
-public class WorkdaysBetween {
+public class 工作日计算 {
 
     public static void main(String[] args) {
         long betweenWorkdays = workdaysBetween(2020,12,1,2020,12,14);
